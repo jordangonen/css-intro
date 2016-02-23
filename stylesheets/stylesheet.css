@@ -23,6 +23,10 @@ body {
   background-color: #3f0;
 }
 
+.container .page-header {
+  background-color: yellow;
+}
+
 section {
     margin: 3em 0;
 }
